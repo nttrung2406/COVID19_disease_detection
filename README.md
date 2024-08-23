@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xr
 
 The aims of the project are:
 
-+ Implement an CNN model with 5 layers to predict COVID19, PNEUMONIA.
++ Implement an CNN model with 5 layers to predict COVID19, PNEUMONIA or NORMAL.
 
 + Convert pytorch model to ONNX model and TENSORRT to boost the inference speed using NVIDIA gpu.
 
