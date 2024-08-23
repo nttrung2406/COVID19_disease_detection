@@ -10,7 +10,7 @@ The aims of the project are:
 
 + Convert pytorch model to ONNX model and TENSORRT to boost the inference speed using NVIDIA gpu.
 
-+ Comparing among Pytorch, ONNX and TENSORRT model
++ Comparing among Pytorch, ONNX and TENSORRT model.
 
 **Prerequisite:**
 
