@@ -24,7 +24,8 @@ https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installin
 
 **Visulize model with https://netron.app/ :**
 
-![model onnx]([https://github.com/user-attachments/assets/c338eb57-6f89-47dc-8900-cf3a106ca1fe](https://github.com/nttrung2406/COVID19_disease_classification/blob/main/model.onnx.png))
+![model onnx](![model onnx](https://github.com/user-attachments/assets/3e9372bc-3880-4ec5-9f4a-50183f4aeb5d)
+)
 
 
 **Performance:**
