@@ -22,6 +22,11 @@ Install TENSORRT can follow this direction:
 
 https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installing-zip
 
+**Visulize model with https://netron.app/ :**
+
+![model onnx](https://github.com/user-attachments/assets/c338eb57-6f89-47dc-8900-cf3a106ca1fe)
+
+
 **Performance:**
 
 ![output](https://github.com/user-attachments/assets/3ec4538d-433e-4f3e-b91f-48e16c248432)
