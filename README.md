@@ -24,8 +24,7 @@ https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installin
 
 **Visulize model with https://netron.app/ :**
 
-(![model onnx](https://github.com/user-attachments/assets/3e9372bc-3880-4ec5-9f4a-50183f4aeb5d)
-)
+![model onnx](https://github.com/user-attachments/assets/3e9372bc-3880-4ec5-9f4a-50183f4aeb5d)
 
 
 **Performance:**
