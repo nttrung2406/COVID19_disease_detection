@@ -12,10 +12,6 @@ The aims of the project are:
 
 + Comparing among Pytorch, ONNX and TENSORRT model.
 
-**Prerequisite:**
-
-+ Must have NVIDA GPU
-
 **Installation:**
 
 Install TENSORRT can follow this direction:
