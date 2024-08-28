@@ -21,8 +21,8 @@ def build_engine(onnx_file_path):
         # Build and return an engine
         engine = builder.build_serialized_network(network, config) 
         return engine
-
-engine = build_engine("C:/Users/flori/OneDrive/Máy tính/Tai-lieu/HCMUS/Image processing/model.onnx")
+model_path = next((os.path.join(dirpath, f) for dirpath, _, files in os.walk(os.getcwd()) for f in files if f == "model.onnx"), None)
+engine = build_engine(model_path)
 
 with open("model.trt", "wb") as f:
     f.write(engine.serialize())
